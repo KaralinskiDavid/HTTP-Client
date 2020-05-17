@@ -1,0 +1,10 @@
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.csprojAssemblyReference.cache
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.Form1.resources
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.Properties.Resources.resources
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.csproj.GenerateResource.cache
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.csproj.CoreCompileInputs.cache
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\bin\Debug\HTTPl4.exe.config
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\bin\Debug\HTTPl4.exe
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\bin\Debug\HTTPl4.pdb
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.exe
+C:\Users\dkaro\source\repos\HTTPl4\HTTPl4\obj\Debug\HTTPl4.pdb
